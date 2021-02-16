@@ -1,24 +1,20 @@
-# 🎰 Week05 Bootcamp2019 Project: Slot Machine
+# Slot Machine
 
-### Goal: Build a Simple Slot Machine
+This application was made for a coding challenge to create a three-reel slot Machine
 
-Build a simple slot machine with minimum 5 items per reel and 3 reels - user should be able to bet min or max and have their total update
+## Current Hosting
 
-### How to submit your code for review:
+To see deployed site, visit [The Application here](https://jpmbvistro-slot-machine.netlify.app/)
+See my other deployed projects there as well!
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## Work With Me
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+If you would like to work with me, feel free to contact me through [my website](https://www.jpmbvistro.com), my [LinkedIn](https://www.linkedin.com/in/juan-justin-vistro/), or email me directly [jpmbvistro@gmail.com](mailto:JPMBVistro@gmail.com)
+
+## Screenshots
+
+![Application Screenshot](screenshot/full-screenshot.png)
+
+### Contributions
+
+At this moment, I am currently not accepting contributions for this project.

@@ -110,7 +110,7 @@ h3 {
 }
 
 .cash-amount {
-  font-size: min(1.5rem, 8vw);
+  font-size: min(2.5rem, 8vw);
 }
 
 .main-button:active{

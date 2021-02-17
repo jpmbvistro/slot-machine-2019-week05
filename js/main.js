@@ -56,7 +56,7 @@ function spin() {
       setTimeout(function(){currentStrip.style.animation = 'spin ease-out'},timer)
 
     }
-  
+
     setTimeout(function(){
       if(win) {
         cash.innerText = Number(cash.innerText) + bet*10
@@ -84,3 +84,16 @@ function minBet(){
 function maxBet() {
   document.querySelector('#bet-display').value = 50
 }
+
+
+/**
+Aside panel functionality
+**/
+document.querySelector('.info-button').addEventListener('click', toggleAside)
+document.querySelector('#hide-aside').addEventListener('click', toggleAside)
+
+function toggleAside(){       document.querySelector('aside').classList.toggle('reveal')
+}
+/**
+Aside Panel end
+*/
